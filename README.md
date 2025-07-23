@@ -1,4 +1,3 @@
-<img width="1850" height="1152" alt="1" src="https://github.com/user-attachments/assets/2ae4abb5-08aa-4290-9e99-0a897cddb3f4" /># 短剧机器人插件
 个人微信+企业微信+QQ短剧机器人+公众号（关注回复自助搜剧）+web网页
 
 全自动搜剧，自带上万部资源每日采集更新，支持夸克百度双网盘，授权群聊和好友
@@ -13,7 +12,7 @@
 
 好友授权搜剧：每个好友可设置免费搜剧次数或者授权使用!
 
-
+演示公众号：小怪剧场 web网页：sou.mcw8.top/chat
 # 下载及部署
 机器人文件下载地址：www.mcfxz.com
 
